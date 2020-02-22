@@ -1,4 +1,4 @@
-<h1>CLONE PIPEFY</h1>
+<center><h1>CLONE PIPEFY</h1></center>
 
 <h2>Estudo de React JS com auxilio do video do Rocketseat</h2>
 
